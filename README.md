@@ -8,7 +8,7 @@
 ###### `ag-grid-angular`- This is easy customisable library for displaying arrays of data, handles all responses asynchronously, with pagination.
 
 
-# Before starting client project the server site project (bit8server) have to be prepared, started and running.
+# Before starting client project the server site project (comodo4server) have to be prepared, started and running.
 
 ### Start client project 
 
