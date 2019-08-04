@@ -1,4 +1,4 @@
-# bit8client
+# comodo4client
 
 ### Technology:
 ###### This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
@@ -12,7 +12,7 @@
 
 ### Start client project 
 
-1. Clone project with command  `git clone https://github.com/adrimrutra/bit8client.git`
+1. Clone project with command  `git clone https://github.com/adrimrutra/comodo4client.git`
 2. Open Command Prompt, navigate to the root directory and run `npm install`, this command will install all libraries.
 3. Run `ng serve` for a server. Navigate to `http://localhost:4200/`.
 
