@@ -1,0 +1,19 @@
+.about_us_area{
+    padding-bottom: 120px; }
+
+    .about_us_area {
+    position: relative; }
+  
+    .about_us_area:before {
+      content: "";
+      position: absolute;
+      height: 100%;
+      width: 100%;
+      top: 0;
+      left: 0;
+      background: -webkit-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
+      background: -moz-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
+      background: -ms-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
+      background: -o-linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%);
+      background: linear-gradient(to right, #231a60 0%, #3c338d 51%, #231a60 100%); }
+ 
